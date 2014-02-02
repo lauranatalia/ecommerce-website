@@ -132,6 +132,7 @@ del {
 }
 
 mark {
+  background-color: #EEF1B3; /*la palabra que esta surrayada en el texto*/
 }
 
 hr {
