@@ -8,6 +8,10 @@ html {
 
 }
 
+html {
+  background-color: #191919;
+}
+
 .btn:link,
 .btn:visited {
 	display: inline-block;
