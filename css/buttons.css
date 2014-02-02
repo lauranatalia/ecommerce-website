@@ -16,11 +16,11 @@ html {
 .btn:visited {
 	display: inline-block;
 	padding: 0.75em 1em;
-	background-color: #ff5a09;
-	background-image: linear-gradient(to bottom,#f3843e,#ff5a09);
+	background-color: #f9ff80;
+	background-image: linear-gradient(to bottom,#faffa6,#f9ff80);
 	border-radius: 4px;
 	box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
-	color: #FFFFFF;
+	color: #e5d84d;
 	font-weight: bold;
 	border: 0;
 }
@@ -31,11 +31,11 @@ html {
 .btn-alt:visited {
 	display: inline-block;
 	padding: 0.75em 1em;
-	background-color: #ff9900;
-	background-image: linear-gradient(to bottom,#F6C479,#ff9900); 
+	background-color: #FFF056;
+	background-image: linear-gradient(to bottom,#fff699,#FFF056); 
 	border-radius: 4px;
 	box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
-	color: #FFFFFF;
+	color: #ffffff;
 	font-weight: bold;
 	border: 0;
 }
