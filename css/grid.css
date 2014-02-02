@@ -1,0 +1,36 @@
+.grid {
+	border: 1px solid red;
+	overflow: hidden;
+}
+
+.unit{
+	background-color: #fff;
+	float: left;
+}
+
+.unit-s-1 {
+	with: 100%;	
+}
+
+@media only screen and (min-with: 30em) {
+	
+	.unit-m-1 {
+		width: 100%;
+	}
+		
+	.unit-m-1-3 {
+		width: 33.3333%;
+	}
+		
+	.unit-m-1-2 {
+		width: 50%;
+	}
+	
+	
+
+@media only screen and (min-with: 50em) {
+
+	unit-l-1-3 {
+		width:33.3333%;	
+	}
+}
