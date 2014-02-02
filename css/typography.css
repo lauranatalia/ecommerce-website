@@ -97,7 +97,6 @@ a:hover,
 a:focus,
 a:active {
   color: #F9FF80; /*color de los links cuando se oprime en ellos*/
-  border-bottom-color: #F1965D;
 }
 
 sup,
