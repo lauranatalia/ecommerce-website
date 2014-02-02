@@ -89,14 +89,14 @@ a:link {
 }
 
 a:visited { 
-  color: #ff9900; /*color de los links - AMARILLO*/
-  border-bottom-color: rgba(255,153,0,0.5);
+  color: #dfe2db; /*color de los links - AMARILLO*/
+  border-bottom-color: rgba(223,226,219,0.5);
 }
 
 a:hover,
 a:focus,
 a:active {
-  color: #f3843e; /*color de los links cuando se oprime en ellos*/
+  color: #F9FF80; /*color de los links cuando se oprime en ellos*/
   border-bottom-color: #F1965D;
 }
 
