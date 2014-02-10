@@ -123,7 +123,7 @@ abbr {
 ins {
   border-bottom: 0.1em dotted rgba(0,0,0,0.5);
 
-  color: #fff056; /*la palabra en el texto q esta en negro*/
+  color: #EA7000; /*la palabra en el texto q esta en negro*/
   text-decoration: none;
 }
 
