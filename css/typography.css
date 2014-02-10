@@ -96,8 +96,8 @@ a:visited {
 a:hover,
 a:focus,
 a:active {
-  color: #F9FF80; /*color de los links cuando se oprime en ellos*/
-  border-bottom-color: rgba(249,255,128,0.5);
+  color: #EA7000; /*color de los links cuando se oprime en ellos*/
+  border-bottom-color: rgba(234,112,0,0.5);
 }
 
 sup,
