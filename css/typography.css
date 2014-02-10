@@ -75,7 +75,7 @@ small, .milli {
 
 h1, h2, h3, h4, h5, h6,
 .brand {
-  color: #1FAF33; /*color de los titulos - NARANJA*/
+  color: #1FAF33; /*color de los titulos - VERDE*/
   font-family: "Patua One",serif;
 }
 
@@ -89,8 +89,8 @@ a:link {
 }
 
 a:visited { 
-  color: #dfe2db; /*color de los links - AMARILLO*/
-  border-bottom-color: rgba(223,226,219,0.5);
+  color: #0C2351; /*color de los links - AZUL*/
+  border-bottom-color: rgba(012,035,081,0.5);
 }
 
 a:hover,
