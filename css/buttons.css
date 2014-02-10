@@ -16,11 +16,11 @@ html {
 .btn:visited {
 	display: inline-block;
 	padding: 0.75em 1em;
-	background-color: #f9ff80;
-	background-image: linear-gradient(to bottom,#faffa6,#f9ff80);
+	background-color: #1faf33;
+	background-image: linear-gradient(to bottom,#ACF096,#1faf33);
 	border-radius: 4px;
 	box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
-	color: #e5d84d;
+	color: #FFFFFF;
 	font-weight: bold;
 	border: 0;
 }
