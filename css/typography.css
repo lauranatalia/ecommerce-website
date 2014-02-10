@@ -173,7 +173,7 @@ ul li:before {
 blockquote {
   padding-left: 1.5rem;
 
-  border-left: 4px solid #f9ff80; /*palito de la quote*/
+  border-left: 4px solid #1FAF33; /*palito de la quote*/
 }
 
 blockquote footer {
