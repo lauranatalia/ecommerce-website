@@ -1,17 +1,26 @@
-#footer_container { 
-	background:#1faf33;
-	opacity: 4.0; 
-	border:1px solid #1faf33; 
-	bottom:0; 
-	height:60px; 
-	left:0; 
-	position:fixed; 
-	width:100%; 
+.footer {
+  background-color: #1FAF33;
 }
 
-#footer { 
-	line-height:60px; 
-	margin:0 auto; 
-	width:940px; 
-	text-align:center; 
+.footer-copyright,
+.footer-links {
+  text-align: center;
+}
+
+.footer-links a,
+.footer-links a:link,
+.footer-links a:visited {
+  border: 0;
+}
+
+@media only screen and (min-width: 50em) {
+
+  .footer-copyright {
+    text-align: left;
+  }
+
+  .footer-links {
+    text-align: right;
+  }
+
 }
