@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Ecommerce-website</title>
+<title>{{page.title}} · Ecommerce-website</title>
 <meta name="description" content="{{page.meta}}"
 <meta name="handheldfriendly" content="true">
 <meta name="mobileoptimized" content="240">
@@ -34,10 +34,10 @@
            <a class="{% if page.url == '/' %}current{% endif %}" href="{{site.baseurl}}/">Home</a>
         </li> 
 		 <li class="list-group-item list-group-item-inline">
-          <a class="{% if page.url contains 'dinosaurs' %}current{% endif %}"href="{{site.baseurl}}/dinos/">About</a>
+          <a class="{% if page.url contains 'products' %}current{% endif %}"href="{{site.baseurl}}/products/">Products</a>
         </li>
         <li class="list-group-item list-group-item-inline">
-          <a class="{% if page.url == '/about/' %}current{% endif %}" href="{{site.baseurl}}/about/">Thank you</a>
+          <a class="{% if page.url == '/about/' %}current{% endif %}" href="{{site.baseurl}}/about/">About</a>
         </li>
       </ul>
     </nav>
@@ -51,7 +51,7 @@
 	{% endif %}
 	
 	
-	{{content}}
+{{content}}
 
 
 <footer class="footer pad-t">
