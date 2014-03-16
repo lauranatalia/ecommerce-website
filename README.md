@@ -1,4 +1,4 @@
-ecommerce-website
+organic-beauty
 =================
 
-ecommerce website design
+organic beauty design
