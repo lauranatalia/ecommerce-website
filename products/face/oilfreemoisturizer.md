@@ -1,5 +1,5 @@
 ---
-layout: product-page
+layout: products-page
 category: face
 name: oil-free moisturizer
 image: poremimizer.jpg
