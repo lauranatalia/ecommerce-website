@@ -1,5 +1,5 @@
 ---
-layout: product-page
+layout: products-page
 category: body
 name: Ultra-Softening Lotion
 image: ultrasofteninglotion.jpg
