@@ -1,5 +1,5 @@
 ---
-layout: product-page
+layout: products-page
 category: face
 name:  GREEN APPLE AGE DEFY MOISTURIZER
 image: antiaging.jpg
