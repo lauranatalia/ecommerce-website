@@ -1,5 +1,5 @@
 ---
-layout: product-page
+layout: products-page
 category: body
 name: Body Repair Lotion
 image: bodyrepairlotion.jpg
