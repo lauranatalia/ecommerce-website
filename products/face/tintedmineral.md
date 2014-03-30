@@ -1,5 +1,5 @@
 ---
-layout: product-page
+layout: products-page
 category: face
 name: 30 TINTED MINERAL
 image: acne.jpg
