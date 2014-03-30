@@ -8,5 +8,6 @@ organic beauty design
 
 © 2014 Laura N. Garcia
 
-Licensed under the [MIT License](LICENSE).
+Code Licensed under the [MIT License](LICENSE).
 
+Design and imagery licensed under [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
