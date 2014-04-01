@@ -20,15 +20,16 @@
 <link href="{{site.baseurl}}/css/product-list-item.css"rel="stylesheet">
 <link href="{{site.baseurl}}/css/products.css"rel="stylesheet">
 <link href="{{site.baseurl}}/css/promos.css"rel="stylesheet">
+<link href="{{site.baseurl}}/css/buttons.css"rel="stylesheet">
 </head>
 <body>
 
-<header class="masthead island push-0">
+<header class="masthead island push-0" role="banner">
   <div class="grid grid-bottom">
     <div class="unit unit-s-1 unit-m-1 unit-l-1-3">
 		<h1 class="push-0"><img class="img-flex logo" src="{{site.baseurl}}/images/logo.svg" 			alt="Ecommerce-website"></h1>
 	</div>
-      <nav class="unit unit-s-1 unit-m-1 unit-l-2-3">
+      <nav class="unit unit-s-1 unit-m-1 unit-l-2-3" role="navigation">
       <ul class="list-group giga brand-family push-0 nav">
         <li class="list-group-item list-group-item-inline">
            <a class="{% if page.url == '/' %}current{% endif %}" href="{{site.baseurl}}/">Home</a>
@@ -45,16 +46,13 @@
 </header>
 
 
-<!doctype html>
-<html lang="en-ca">
-<head>
-	<meta charset="UTF-8">
+	<meta charset="UTF-8" role="search">
 	<title>Search Field</title>
 	<link href="http://fonts.googleapis.com/css?family=Patua+One" rel="stylesheet">
 	<link href="../css/typography.css" rel="stylesheet">
 	<link href="../css/forms.css" rel="stylesheet">
-</head>
-<body>
+
+
 
 <form method="get" action="/search" id="search">
   <input name="q" type="text" size="40" placeholder="Search..." />
@@ -74,7 +72,7 @@
 
 <footer class="footer pad-t">
   <div class="grid">
-    <div class="unit unit-s-1 unit-m-1 unit-l-1-2 gutter-1-2">
+    <div class="unit unit-s-1 unit-m-1 unit-l-1-2 gutter-1-2" role="contentinfo">
       <p class="footer-copyright"><small>© 2014 Ecommerce-laura</small></p>
     </div>
     <div class="unit unit-s-1 unit-m-1 unit-l-1-2 gutter-1-2">
