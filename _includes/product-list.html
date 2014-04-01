@@ -1,8 +1,8 @@
 <div>
-	<ul class="list-group lg-item-inline">
+	<ul class="list-group lg-item-inline grid">
 		{% for product in site.pages %}
 			{% if product.category == include.category %}
-				<a href="{{site.baseurl}}{{product.url}}">
+				<a href="{{site.baseurl}}{{product.url}}" class="unit unit-s-1 unit-m-1-3 unit-l-1-3"> 
 				<li class="product media-img list-group-item">
 					<h3>{{product.name}}</h3>
 					<img class="img-flex" src="{{site.baseurl}}/images/{{product.image}}" alt="">
