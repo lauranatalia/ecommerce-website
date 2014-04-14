@@ -81,15 +81,15 @@ h1, h2, h3, h4, h5, h6,
 
 a,
 a:link {
-  border-bottom: 0.1em solid rgba(255,84,9,0.5);
+  
   transition: all 150ms linear;
 
-  color: #f3843e;/*?????????*/
+  color: #f3843e;/*cuando se para sobre la navigacion*/
   text-decoration: none;
 }
 
 a:visited { 
-  color: #0C2351; /*color de los links - AZUL*/
+  color: #0c2351; /*color de los links - AZUL*/
   border-bottom-color: rgba(012,035,081,0.5);
 }
 
